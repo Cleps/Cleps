@@ -26,12 +26,9 @@
 
   
 </div>
-   <img width="150" src="https://media2.giphy.com/media/SXxI9NlwvYiY3bRsck/200w.webp?cid=ecf05e475ew9xxmxsidi49t4vmpe0jw8alz11ozdqa8pxc1d&rid=200w.webp&ct=g" align="right">
-   ###
+   <img width="150" src="<iframe src=https://giphy.com/embed/scZPhLqaVOM1qG4lT9>via GIPHY</a></p>" align="right">
 
-.
-.
-.
+
 <div align="center">
  
  <a href="https://github.com/Cleps"></a>
