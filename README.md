@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Cleps
 - 👀 I’m interested in code, computer science, games and movies
 - 🌱 I’m currently learning python, C, A.I
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
 
