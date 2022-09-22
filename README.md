@@ -26,7 +26,11 @@
 
   
 </div>
-  <img width="150" src="<iframe src=https://giphy.com/embed/scZPhLqaVOM1qG4lT9>via GIPHY</a></p>" align="right">
+   <img width="150" src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611abcee6bbd536a628184b6e75e3c402df18308999&rid=giphy.gif&ct=g" align="right">
+  
+  
+  
+<div align="center">
  
  <a href="https://github.com/Cleps"></a>
  
